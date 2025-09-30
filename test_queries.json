@@ -1,0 +1,14 @@
+[
+  {
+    "query": "I want a fantasy book with dragons and adventure",
+    "positive": ["Unlimited power", "Dragons of Winter Night"]
+  },
+  {
+    "query": "I feel sad and want something motivational",
+    "positive": ["The Purpose of Your Life", "Feel the Fear-- and Do it Anyway"]
+  },
+  {
+    "query": "Suggest me a book on machine learning basics",
+    "positive": ["The Code Book", "Bioinformatics"]
+  }
+]
